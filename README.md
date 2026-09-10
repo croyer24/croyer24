@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm [Cameron Royer] 👋
 
-<!--
-**croyer24/croyer24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hard-Working Finance Student at Baldwin Wallace University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a Bachelors in Finance at Baldwin Wallace University (Expected Graduation: 2028)
+* 🔭 **Current Focus:** Learning Microsoft Excel, Management Information Systems, and Intermediate Finance
+* 🌱 **Currently Building:** A Time Clock WebApp using Python
+* 💡 **Interests:** Investment banking and Accounting
+* ⚡ **Fun Fact:** I love buying and selling trading cards
+
+---
+
+### 📌 Featured Projects
+
+| Project Name | Description | Tech Used |
+| --- | --- | --- |
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using [OpenAI / Claude / Gemini] | `[Python]` `[Flask]` |
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** https://www.linkedin.com/in/cameron-royer-5b6aa5361/
+* **Email:** croyer24@bw.edu
