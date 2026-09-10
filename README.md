@@ -1,5 +1,7 @@
 # Hi there, I'm Cameron Royer 👋
 
+* download my resume [here](https://rawcdn.githack.com/croyer24/croyer24/b8f4f5d963d1557ad373dd3628aeed7bccb78f6b/Resume%20-%20Cameron%20Royer%20(3).pdf).
+
 Hard-Working Finance Student at Baldwin Wallace University
 
 ---
@@ -18,7 +20,7 @@ Hard-Working Finance Student at Baldwin Wallace University
 
 | Project Name | Description | Tech Used |
 | --- | --- | --- |
-| **Study Planner** | WebApp built on PythonAnywhere using OpenAI | croyer24.pythonanywhere.com `[Flask]` |
+| **Study Planner** | WebApp built on PythonAnywhere using OpenAI | [Python](croyer24.pythonanywhere.com) `[Flask]` |
 
 
 ---
