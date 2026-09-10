@@ -18,7 +18,7 @@ Hard-Working Finance Student at Baldwin Wallace University
 
 | Project Name | Description | Tech Used |
 | --- | --- | --- |
-| **Study Planner** | WebApp built on PythonAnywhere using OpenAI | 'croyer24.pythonanywhere.com' `[Flask]` |
+| **Study Planner** | WebApp built on PythonAnywhere using OpenAI | croyer24.pythonanywhere.com `[Flask]` |
 
 
 ---
