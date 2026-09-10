@@ -1,4 +1,4 @@
-# Hi there, I'm [Cameron Royer] 👋
+# Hi there, I'm Cameron Royer 👋
 
 Hard-Working Finance Student at Baldwin Wallace University
 
@@ -18,7 +18,7 @@ Hard-Working Finance Student at Baldwin Wallace University
 
 | Project Name | Description | Tech Used |
 | --- | --- | --- |
-| **Time Clock WebApp** | WebApp built on PythonAnywhere using [OpenAI / Claude / Gemini] | `[Python]` `[Flask]` |
+| **Time Clock WebApp** | WebApp built on PythonAnywhere using OpenAI | croyer24.pythonanywhere.com `[Flask]` |
 
 
 ---
