@@ -10,7 +10,7 @@ Hard-Working Finance Student at Baldwin Wallace University
 
 * 🏫 **Education:** Currently pursuing a Bachelors in Finance at Baldwin Wallace University (Expected Graduation: 2028)
 * 🔭 **Current Focus:** Learning Microsoft Excel, Management Information Systems, and Intermediate Finance
-* 🌱 **Currently Building:** A Time Clock WebApp using Python
+* 🌱 **Currently Building:** Study planner using Python
 * 💡 **Interests:** Investment banking and Accounting
 * ⚡ **Fun Fact:** I love buying and selling trading cards
 
